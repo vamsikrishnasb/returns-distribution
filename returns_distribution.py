@@ -26,8 +26,6 @@ import plotly
 import plotly.express as px
 import plotly.graph_objects as go
 from nsepython import *
-import glob
-import os
 from nsepython import *
 import pandas as pd
 from scipy.stats import norm
